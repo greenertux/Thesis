@@ -15,7 +15,7 @@
     <xsl:copy-of select="//meta[@name='source']" />
     <xsl:copy-of select="//meta[@name='pubdate']" />
     <xsl:for-each select="tokenize(//meta[@name='keywords'],';')">
-      <meta name="keywords"><xsl:sequence select="normalize-space(.)"/></meta>
+      <meta name="keywords"><xsl:sequence select="lower-case(normalize-space(.))"/></meta>
     </xsl:for-each>
   </metadata>
   <xsl:copy-of select="//content" />
