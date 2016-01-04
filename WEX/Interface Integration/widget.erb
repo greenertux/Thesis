@@ -1,0 +1,25 @@
+<% queryStr = subject.query
+if subject.query.empty?
+  queryStr = "*"
+end  
+json = endpoint("WEX_keywords", query: queryStr)
+if json.empty? || json[:es_apiResponse].nil?
+  %><strong>No connection to WCA or no keywords matching your query</strong><%
+else
+%>
+<script type="text/javascript" src="sorttable.js"></script>
+<table class="sortable">
+  <tr><th>Keyword</th><th>Correlation</th><th>Count</th></tr>
+<% 
+   count = 0
+   json[:es_apiResponse][:ibmsc_facet][:ibmsc_facetValue].each {|x| 
+     %>
+     <tr>
+       <td><%= x[:label] %></td>
+       <td align="center"><%= truncate(x[:es_property][0][:value].to_s, :length => 4, :omission => '')%></td>
+       <td align="center"><%= x[:weight].to_s %></td>
+     </tr>
+     <% 
+   } %>
+</table>
+<% end %> 
