@@ -3,9 +3,9 @@ if subject.query.empty?
   queryStr = "*"
 end  
 json = endpoint("WEX_keywords", query: queryStr)
-if json.empty? || json[:es_apiResponse].nil?
+if json.empty? || json[:es_apiResponse].nil? #Error handling
   %><strong>No connection to WCA or no keywords matching your query</strong><%
-else
+else #Only process json if request was successful
 %>
 <script type="text/javascript" src="sorttable.js"></script>
 <table class="sortable">
@@ -22,4 +22,4 @@ else
      <% 
    } %>
 </table>
-<% end %> 
+<% end #End of json processing%>
