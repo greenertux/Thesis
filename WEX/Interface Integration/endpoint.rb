@@ -21,5 +21,5 @@ response = HttpClient.request("http://127.0.0.1:8393/api/v10/search/facet",
   }
 )
 
-# Returns the Alchemy News API response, parsed as JSON
-JSON.parse(response.body, symbolize_names: true) 
+# Returns the Watson Explorer Content Analytics API response, parsed as JSON
+JSON.parse(response.body, symbolize_names: true)
