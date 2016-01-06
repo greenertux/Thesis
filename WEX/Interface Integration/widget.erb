@@ -3,13 +3,13 @@ if subject.query.empty? # Convert empty query to "all" query for WCA
   queryStr = "*"
 end  
 json = endpoint("WCA_keywords", query: queryStr)
-if json.empty? || json[:es_apiResponse].nil? # Error handling
+if json == "Error accessing WCA API" || json.empty? || json[:es_apiResponse].nil? # Error handling
   %><strong>No connection to WCA or no keywords matching your query</strong><%
 else # Only process json if request was successful
 %>
 <script type="text/javascript" src="sorttable.js"></script>
 <table class="sortable">
-    <tr><th><strong>Keyword</strong></th><th><strong>Correlation</strong></th><th><strong>Count</strong></th></tr>
+  <tr><th><strong>Keyword</strong></th><th><strong>Correlation</strong></th><th><strong>Count</strong></th></tr>
 <% 
    count = 0
    json[:es_apiResponse][:ibmsc_facet][:ibmsc_facetValue].each {|x| 
