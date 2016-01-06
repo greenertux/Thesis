@@ -1,6 +1,6 @@
 # Web service
 # Watson Content Analytics REST API using query text that is supplied to the endpoint
-# Returns the results as JSON
+# Returns the results as Hash (or an error string)
 
 # Created by Tristan Hoffmann, 01/04/2016
 begin # start try-equivalent block
