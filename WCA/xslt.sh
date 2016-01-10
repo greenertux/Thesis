@@ -1,5 +1,5 @@
 #!/bin/sh
-# Created by Tristan Hoffmann 2016-01-02
+# Created by Tristan Hoffmann 01/02/2016
 cd /root/files
 for file in *
 do

@@ -1,0 +1,12 @@
+"COL1","COL2","COL3"
+"Progesterone	1000","N","Drug > Progesterone"
+"Vitamin c	1000ascorbic acid	1000","N","Drug > Vitamin C"
+"cinacalcet	1000","N","Drug > Cincalcet"
+"Clindamycin	1000CLINDAMYCIN	1000","N","Drug > Clindamycin"
+"Vitamin D	100022-dihydroergocalciferol	1000cholecalciferol	1000ergocalciferol	1000","N","Drug > Vitamin D"
+"salvage	1000","N","Procedure > Salvage"
+"cancer	1101cancers	1101carcinoma	1101carcinomas	1101carcinomata	1101mestastase	1101mestastases	1101","N","Disease > Cancer"
+"cirrhosis	1101","N","Disease > Cirrhosis"
+"aspirin	1101ASA	1000acetylsalicylic acid	1101","N","Drug > Aspirin"
+"Tumor	1101Tumors	1101Tumour	1101Tumours	1101neoplasm	1101neoplasms	1101","N","Disease > Tumor"
+"Chemotherapy	1101","N","Procedure > Chemo"
