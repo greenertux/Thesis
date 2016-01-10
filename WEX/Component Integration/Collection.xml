@@ -1,5 +1,5 @@
-<vse-collection name="LiverDisease_component-integration" modified="1452284488" modified-by="data-explorer-admin" max-elt-id="158">
-<vse-config max-elt-id="171">
+<vse-collection modified="1452458021" modified-by="data-explorer-admin" name="LiverDisease_component-integration" max-elt-id="1476">
+<vse-config max-elt-id="174">
 <crawler>
 <crawl-options>
 <curl-option name="default-allow">allow</curl-option>
@@ -27,6 +27,7 @@ pubyear
 language
 filetype
 lang
+medterms_category
 </vse-index-option>
 <vse-index-option name="indexed-fast-index">true</vse-index-option>
 <vse-index-option name="term-expand-dicts">true</vse-index-option>
@@ -35,6 +36,21 @@ lang
 <with name="stem">depluralize</with>
 </call-function>
 </vse-index-streams>
+<binning-sets max-elt-id="1">
+<binning-set>
+<call-function name="binning-set">
+<with name="select">$medterms_category</with>
+<with name="label">Medical Terms</with>
+</call-function>
+<binning-tree>
+<call-function name="binning-tree">
+
+
+            
+</call-function>
+</binning-tree>
+</binning-set>
+</binning-sets>
 </vse-index>
 <converters>
 <converter type-in="vivisimo/fallback" type-out="application/vxml-unnormalized">
@@ -184,4 +200,4 @@ lang
 </converters>
 </vse-config>
 <vse-meta name="LiverDisease_component-integration" />
-</vse-collection> 
+</vse-collection>
