@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document Id="file:///tmp/xslt/23395525.htm.xml" Type="NORMAL">
+  <Content Truncated="false" Encoded="false">Methadone, codeine and acute haemorrhagic necrotising pancreatitis: which came first? See comment in PubMed Commons below Acute haemorrhagic necrotising pancreatitis lead to the death at home of a young female who was on a methadone maintenance programme. Toxic levels of codeine with potentially lethal levels of methadone and morphine were found at post-mortem. Whether opiates caused the pancreatitis or were the consequence of self-medication for pain is impossible to differentiate. Forensic toxicology may pose the question but be unable to provide the answer. 23395525; Tormey WP Forensic science international. 2013/2/12
+
+
+
+Warning:
+The NCBI web site requires JavaScript to function.
+more...
+
+NCBISkip to main
+contentSkip to
+navigationResourcesAll ResourcesChemicals &amp; BioassaysBioSystemsPubChem BioAssayPubChem CompoundPubChem Structure SearchPubChem SubstanceAll Chemicals &amp; Bioassays Resources...DNA &amp; RNABLAST (Basic Local Alignment Search Tool)BLAST (Stand-alone)E-UtilitiesGenBankGenBank: BankItGenBank: SequinGenBank: tbl2asnGenome WorkbenchInfluenza VirusNucleotide DatabasePopSetPrimer-BLASTProSplignReference Sequence (RefSeq)RefSeqGeneSequence Read Archive (SRA)SplignTrace ArchiveUniGeneAll DNA &amp; RNA Resources...Data &amp; SoftwareBLAST (Basic Local Alignment Search Tool)BLAST (Stand-alone)Cn3DConserved Domain Search Service (CD Search)E-UtilitiesGenBank: BankItGenBank: SequinGenBank: tbl2asnGenome ProtMapGenome WorkbenchPrimer-BLASTProSplignPubChem Structure SearchSNP Submission ToolSplignVector Alignment Search Tool (VAST)All Data &amp; Software Resources...Domains &amp; StructuresBioSystemsCn3DConserved Domain Database (CDD)Conserved Domain Search Service (CD Search)Structure (Molecular Modeling Database)Vector Alignment Search Tool (VAST)All Domains &amp; Structures Resources...Genes &amp; ExpressionBioSystemsDatabase of Genotypes and Phenotypes (dbGaP)E-UtilitiesGeneGene Expression Omnibus (GEO) Database Gene Expression Omnibus (GEO) DatasetsGene Expression Omnibus (GEO) ProfilesGenome WorkbenchHomoloGeneMap ViewerOnline Mendelian Inheritance in Man (OMIM)RefSeqGeneUniGeneAll Genes &amp; Expression Resources...Genetics &amp; MedicineBookshelfDatabase of Genotypes and Phenotypes (dbGaP)Genetic Testing RegistryInfluenza VirusMap ViewerOnline Mendelian Inheritance in Man (OMIM)PubMedPubMed Central (PMC)PubMed Clinical QueriesRefSeqGeneAll Genetics &amp; Medicine Resources...Genomes &amp; MapsDatabase of Genomic Structural Variation (dbVar)GenBank: tbl2asnGenomeGenome ProjectGenome ProtMapGenome WorkbenchInfluenza VirusMap ViewerNucleotide DatabasePopSetProSplignSequence Read Archive (SRA)SplignTrace ArchiveAll Genomes &amp; Maps Resources...HomologyBLAST (Basic Local Alignment Search Tool)BLAST (Stand-alone)BLAST Link (BLink)Conserved Domain Database (CDD)Conserved Domain Search Service (CD Search)Genome ProtMapHomoloGeneProtein ClustersAll Homology Resources...LiteratureBookshelfE-UtilitiesJournals in NCBI DatabasesMeSH DatabaseNCBI HandbookNCBI Help ManualNCBI NewsPubMedPubMed Central (PMC)PubMed Clinical QueriesPubMed HealthAll Literature Resources...ProteinsBioSystemsBLAST (Basic Local Alignment Search Tool)BLAST (Stand-alone)BLAST Link (BLink)Conserved Domain Database (CDD)Conserved Domain Search Service (CD Search)E-UtilitiesProSplignProtein ClustersProtein DatabaseReference Sequence (RefSeq)All Proteins Resources...Sequence AnalysisBLAST (Basic Local Alignment Search Tool)BLAST (Stand-alone)BLAST Link (BLink)Conserved Domain Search Service (CD Search)Genome ProtMapGenome WorkbenchInfluenza VirusPrimer-BLASTProSplignSplignAll Sequence Analysis Resources...TaxonomyTaxonomyTaxonomy BrowserTaxonomy Common TreeAll Taxonomy Resources...Training &amp; TutorialsNCBI Education PageNCBI HandbookNCBI Help ManualNCBI NewsAll Training &amp; Tutorials Resources...VariationDatabase of Genomic Structural Variation (dbVar)Database of Genotypes and Phenotypes (dbGaP)Database of Single Nucleotide Polymorphisms (dbSNP)SNP Submission ToolAll Variation Resources...How ToAll How ToChemicals &amp; BioassaysDNA &amp; RNAData &amp; SoftwareDomains &amp; StructuresGenes &amp; ExpressionGenetics &amp; MedicineGenomes &amp; MapsHomologyLiteratureProteinsSequence AnalysisTaxonomyTraining &amp; TutorialsVariationAbout NCBI AccesskeysMy NCBISign in to NCBISign Out
+
+
+
+PubMed
+
+US National Library of Medicine
+National Institutes of Health
+
+
+
+Search databaseAll DatabasesAssemblyBioProjectBioSampleBioSystemsBooksClinVarCloneConserved DomainsdbGaPdbVarEpigenomicsESTGeneGenomeGEO DataSetsGEO ProfilesGSSGTRHomoloGeneMedGenMeSHNCBI Web SiteNLM CatalogNucleotideOMIMPMCPopSetProbeProteinProtein ClustersPubChem BioAssayPubChem CompoundPubChem SubstancePubMedPubMed HealthSNPSRAStructureTaxonomyToolKitToolKitAllToolKitBookUniGeneSearch termSearchAdvancedHelp
+
+
+
+Result Filters
+
+
+
+AbstractFormatSummarySummary (text)AbstractAbstract (text)MEDLINEXMLPMID ListApplySend to:
+jQuery(document).ready( function () {
+jQuery(&quot;#send_to_menu input[type=&apos;radio&apos;]&quot;).click( function () {
+var selectedValue = jQuery(this).val().toLowerCase();
+var selectedDiv = jQuery(&quot;#send_to_menu div.&quot; + selectedValue);
+
+if(selectedDiv.is(&quot;:hidden&quot;)){
+jQuery(&quot;#send_to_menu div.submenu:visible&quot;).slideUp();
+selectedDiv.slideDown();
+}
+});
+
+});
+
+jQuery(&quot;#sendto&quot;).bind(&quot;ncbipopperclose&quot;, function(){
+jQuery(&quot;#send_to_menu div.submenu:visible&quot;).css(&quot;display&quot;,&quot;none&quot;);
+jQuery(&quot;#send_to_menu input[type=&apos;radio&apos;]:checked&quot;).attr(&quot;checked&quot;,false);
+});
+
+Choose DestinationFileClipboardCollectionsE-mailOrderMy BibliographyCitation managerFormatSummary (text)Abstract (text)MEDLINEXMLPMID ListCSVCreate File1 selected item: 23395525FormatSummarySummary (text)AbstractAbstract (text)MEDLINEXMLPMID ListMeSH and Other DataE-mailSubjectAdditional textE-mailDidn&apos;t get the message? Find out why...Add to ClipboardAdd to CollectionsOrder articlesAdd to My BibliographyGenerate a file for use with external citation management software.Create File
+
+
+
+See comment in PubMed Commons belowForensic Sci Int. 2013 Mar 10;226(1-3):e52-3. doi: 10.1016/j.forsciint.2013.01.020. Epub 2013 Feb 8.Methadone, codeine and acute haemorrhagic necrotising pancreatitis: which came first?Tormey WP, Sabah M, Moore TM.AbstractAcute haemorrhagic necrotising pancreatitis lead to the death at home of a young female who was on a methadone maintenance programme. Toxic levels of codeine with potentially lethal levels of methadone and morphine were found at post-mortem. Whether opiates caused the pancreatitis or were the consequence of self-medication for pain is impossible to differentiate. Forensic toxicology may pose the question but be unable to provide the answer.Copyright © 2013 Elsevier Ireland Ltd. All rights reserved.PMID: 23395525 [PubMed - indexed for MEDLINE] SharePublication Types, MeSH Terms, SubstancesPublication TypesCase ReportsLetterMeSH TermsAbdominal Pain/drug therapyAdultAnalgesics, Opioid/blood*Codeine/blood*Fatty Liver/pathologyFemaleHemorrhage/chemically inducedHemorrhage/pathologyHumansLiver Cirrhosis/pathologyMethadone/blood*Narcotics/blood*Opiate Substitution TreatmentPancreatitis, Acute Necrotizing/chemically induced*Pancreatitis, Acute Necrotizing/pathologySubstancesAnalgesics, OpioidNarcoticsCodeineMethadoneLinkOut - more resourcesFull Text SourcesElsevier ScienceClinical KeyOther Literature SourcesAccess more work from the authors - ResearchGateMedicalPancreatitis - Genetic AllianceMiscellaneousCODEINE - Hazardous Substances Data BankMETHADONE - Hazardous Substances Data BankPubMed Commons home
+PubMed Commons
+0 commentsHow to join PubMed CommonsHow to cite this comment:
+
+
+
+Supplemental Content
+
+
+
+Full text links
+
+
+
+You are here:
+NCBI &gt; Literature &gt; PubMed
+Write to the Help Desk
+
+
+
+Simple NCBI Directory
+
+Getting Started
+
+NCBI Education
+NCBI Help Manual
+NCBI Handbook
+Training &amp; Tutorials
+Submit Data
+
+
+
+Resources
+
+Chemicals &amp; BioassaysData &amp; SoftwareDNA &amp; RNADomains &amp; StructuresGenes &amp; ExpressionGenetics &amp; MedicineGenomes &amp; MapsHomologyLiteratureProteinsSequence AnalysisTaxonomyVariation
+
+
+Popular
+PubMed
+Bookshelf
+PubMed Central
+PubMed Health
+BLAST
+Nucleotide
+Genome
+SNP
+Gene
+Protein
+PubChem
+
+
+Featured
+Genetic Testing Registry
+PubMed Health
+GenBank
+Reference Sequences
+Gene Expression Omnibus
+Map Viewer
+Human Genome
+Mouse Genome
+Influenza Virus
+Primer-BLAST
+Sequence Read Archive
+
+
+NCBI Information
+About NCBI
+Research at NCBI
+NCBI News
+NCBI FTP Site
+NCBI on Facebook
+NCBI on Twitter
+NCBI on YouTube
+
+
+
+External link. Please review our privacy policy.
+
+NLM
+
+
+NIH
+
+
+DHHS
+
+
+USA.gov
+
+
+
+National Center for
+Biotechnology Information,
+U.S. National Library of Medicine
+
+8600 Rockville Pike, Bethesda
+MD, 20894
+USA
+
+
+
+Policies and Guidelines | Contact</Content>
+  <Metadata>
+    <Fields>
+      <Field Name="date">1451862291000</Field>
+      <Field Name="title">Methadone, codeine and acute haemorrhagic necrotising pancreatitis: which came first?</Field>
+      <Field Name="directory">/tmp/xslt</Field>
+      <Field Name="filename">23395525.htm.xml</Field>
+      <Field Name="extension">.xml</Field>
+      <Field Name="modifieddate">1451862291000</Field>
+      <Field Name="filesize">11379</Field>
+      <Field Name="medterms_category">Disease &gt; Cirrhosis</Field>
+      <Field Name="$source">unixfs</Field>
+      <Field Name="$language">en</Field>
+      <Field Name="$doctype">text/xml</Field>
+    </Fields>
+    <Facets>
+      <Facet>
+        <Path>date</Path>
+        <Path>2016</Path>
+        <Path>1</Path>
+        <Path>4</Path>
+        <Path>0</Path>
+        <Path>4</Path>
+      </Facet>
+      <Facet Begin="54" End="66">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>pancreatitis</Keyword>
+      </Facet>
+      <Facet Begin="203" End="209">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>female</Keyword>
+      </Facet>
+      <Facet Begin="314" End="323">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>methadone</Keyword>
+      </Facet>
+      <Facet Begin="328" End="336">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>morphine</Keyword>
+      </Facet>
+      <Facet Begin="328" End="336">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>morphine</Keyword>
+      </Facet>
+      <Facet Begin="372" End="379">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>opiate</Keyword>
+      </Facet>
+      <Facet Begin="391" End="403">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>pancreatitis</Keyword>
+      </Facet>
+      <Facet Begin="436" End="446">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>medication</Keyword>
+      </Facet>
+      <Facet Begin="451" End="455">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>pain</Keyword>
+      </Facet>
+      <Facet Begin="497" End="507">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>toxicology</Keyword>
+      </Facet>
+      <Facet Begin="497" End="507">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>toxicology</Keyword>
+      </Facet>
+      <Facet Begin="521" End="529">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>question</Keyword>
+      </Facet>
+      <Facet Begin="567" End="576">
+        <Path>id</Path>
+        <Keyword>23395525;</Keyword>
+      </Facet>
+      <Facet Begin="587" End="618">
+        <Path>source</Path>
+        <Keyword>Forensic science international.</Keyword>
+      </Facet>
+      <Facet Begin="619" End="628">
+        <Path>pubdate</Path>
+        <Path>2013</Path>
+        <Path>2</Path>
+        <Path>12</Path>
+        <Path>0</Path>
+        <Path>0</Path>
+      </Facet>
+      <Facet Begin="645" End="649">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>NCBI</Keyword>
+      </Facet>
+      <Facet Begin="650" End="653">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>web</Keyword>
+      </Facet>
+      <Facet Begin="654" End="658">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>site</Keyword>
+      </Facet>
+      <Facet Begin="668" End="678">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>JavaScript</Keyword>
+      </Facet>
+      <Facet Begin="1137" End="1143">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>RefSeq</Keyword>
+      </Facet>
+      <Facet Begin="5070" End="5081">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>selectedDiv</Keyword>
+      </Facet>
+      <Facet Begin="5363" End="5367">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>attr</Keyword>
+      </Facet>
+      <Facet Begin="5510" End="5524">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>MEDLINEXMLPMID</Keyword>
+      </Facet>
+      <Facet Begin="5686" End="5694">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>mailDidn</Keyword>
+      </Facet>
+      <Facet Begin="5846" End="5856">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>management</Keyword>
+      </Facet>
+      <Facet Begin="5857" End="5865">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>software</Keyword>
+      </Facet>
+      <Facet Begin="6070" End="6082">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>pancreatitis</Keyword>
+      </Facet>
+      <Facet Begin="6219" End="6225">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>female</Keyword>
+      </Facet>
+      <Facet Begin="6330" End="6339">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>methadone</Keyword>
+      </Facet>
+      <Facet Begin="6344" End="6352">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>morphine</Keyword>
+      </Facet>
+      <Facet Begin="6344" End="6352">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>morphine</Keyword>
+      </Facet>
+      <Facet Begin="6388" End="6395">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>opiate</Keyword>
+      </Facet>
+      <Facet Begin="6407" End="6419">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>pancreatitis</Keyword>
+      </Facet>
+      <Facet Begin="6452" End="6462">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>medication</Keyword>
+      </Facet>
+      <Facet Begin="6467" End="6471">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>pain</Keyword>
+      </Facet>
+      <Facet Begin="6513" End="6523">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>toxicology</Keyword>
+      </Facet>
+      <Facet Begin="6513" End="6523">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>toxicology</Keyword>
+      </Facet>
+      <Facet Begin="6537" End="6545">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>question</Keyword>
+      </Facet>
+      <Facet Begin="6625" End="6631">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>right</Keyword>
+      </Facet>
+      <Facet Begin="6657" End="6663">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>PubMed</Keyword>
+      </Facet>
+      <Facet Begin="7037" End="7048">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>necrotize</Keyword>
+      </Facet>
+      <Facet Begin="7473" End="7484">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>commentsHow</Keyword>
+      </Facet>
+      <Facet Begin="7500" End="7510">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>CommonsHow</Keyword>
+      </Facet>
+      <Facet Begin="7600" End="7610">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>literature</Keyword>
+      </Facet>
+      <Facet Begin="7686" End="7690">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>NCBI</Keyword>
+      </Facet>
+      <Facet Begin="7691" End="7700">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>education</Keyword>
+      </Facet>
+      <Facet Begin="7701" End="7705">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>NCBI</Keyword>
+      </Facet>
+      <Facet Begin="7732" End="7740">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>training</Keyword>
+      </Facet>
+      <Facet Begin="7743" End="7752">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>tutorial</Keyword>
+      </Facet>
+      <Facet Begin="8223" End="8228">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>blast</Keyword>
+      </Facet>
+      <Facet Begin="8229" End="8237">
+        <Path>_dolce</Path>
+        <Path>noun</Path>
+        <Path>negative</Path>
+        <Keyword>sequence</Keyword>
+      </Facet>
+    </Facets>
+  </Metadata>
+</Document>
