@@ -1,5 +1,5 @@
 <% queryStr = subject.query
-if subject.query.empty? # Convert empty query to "all" query for WCA
+if subject.query.to_s.empty? # Convert empty query to "all" query for WCA
   queryStr = "*"
 end  
 json = endpoint("WCA_keywords", query: queryStr)
