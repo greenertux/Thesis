@@ -32,7 +32,7 @@
       <styles xmi:type="notation:TitleStyle" xmi:id="_JAFmUbiJEeWIy4OLLbb3og" showTitle="true"/>
     </children>
     <element xmi:type="repository:BasicComponent" href="default2.repository#_JADxILiJEeWIy4OLLbb3og"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JAE_QbiJEeWIy4OLLbb3og" x="122" y="92"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JAE_QbiJEeWIy4OLLbb3og" x="122" y="32"/>
   </children>
   <children xmi:type="notation:Shape" xmi:id="_NpxHMLiJEeWIy4OLLbb3og" type="2102" fontName="Sans Serif">
     <children xmi:type="notation:DecorationNode" xmi:id="_NpxHMriJEeWIy4OLLbb3og" type="5102"/>
@@ -49,7 +49,7 @@
       <styles xmi:type="notation:TitleStyle" xmi:id="_NpxHO7iJEeWIy4OLLbb3og" showTitle="true"/>
     </children>
     <element xmi:type="repository:BasicComponent" href="default2.repository#_NpwgILiJEeWIy4OLLbb3og"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_NpxHMbiJEeWIy4OLLbb3og" x="120" y="300"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_NpxHMbiJEeWIy4OLLbb3og" x="120" y="240"/>
   </children>
   <children xmi:type="notation:Shape" xmi:id="_QurpsLiJEeWIy4OLLbb3og" type="2107" fontName="Sans Serif">
     <children xmi:type="notation:DecorationNode" xmi:id="_QusQwLiJEeWIy4OLLbb3og" type="5108"/>
@@ -62,7 +62,7 @@
       <styles xmi:type="notation:FilteringStyle" xmi:id="_QusQw7iJEeWIy4OLLbb3og"/>
     </children>
     <element xmi:type="repository:OperationInterface" href="default2.repository#_QurCoLiJEeWIy4OLLbb3og"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QurpsbiJEeWIy4OLLbb3og" x="156" y="228"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QurpsbiJEeWIy4OLLbb3og" x="156" y="168"/>
   </children>
   <children xmi:type="notation:Shape" xmi:id="_V6F-oLiJEeWIy4OLLbb3og" type="2107" fontName="Sans Serif">
     <children xmi:type="notation:DecorationNode" xmi:id="_V6GlsLiJEeWIy4OLLbb3og" type="5108"/>
@@ -79,7 +79,7 @@
       <styles xmi:type="notation:FilteringStyle" xmi:id="_V6Gls7iJEeWIy4OLLbb3og"/>
     </children>
     <element xmi:type="repository:OperationInterface" href="default2.repository#_V6FXkLiJEeWIy4OLLbb3og"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_V6F-obiJEeWIy4OLLbb3og" x="660" y="300"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_V6F-obiJEeWIy4OLLbb3og" x="540" y="216"/>
   </children>
   <children xmi:type="notation:Shape" xmi:id="_WsiIMLiJEeWIy4OLLbb3og" type="2107" fontName="Sans Serif">
     <children xmi:type="notation:DecorationNode" xmi:id="_WsivQLiJEeWIy4OLLbb3og" type="5108"/>
@@ -92,7 +92,7 @@
       <styles xmi:type="notation:FilteringStyle" xmi:id="_WsivQ7iJEeWIy4OLLbb3og"/>
     </children>
     <element xmi:type="repository:OperationInterface" href="default2.repository#_WshhILiJEeWIy4OLLbb3og"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WsiIMbiJEeWIy4OLLbb3og" x="660" y="228"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WsiIMbiJEeWIy4OLLbb3og" x="664" y="215"/>
   </children>
   <children xmi:type="notation:Shape" xmi:id="_ag9cELiJEeWIy4OLLbb3og" type="2107" fontName="Sans Serif">
     <children xmi:type="notation:DecorationNode" xmi:id="_ag-DILiJEeWIy4OLLbb3og" type="5108"/>
@@ -105,7 +105,7 @@
       <styles xmi:type="notation:FilteringStyle" xmi:id="_ag-DI7iJEeWIy4OLLbb3og"/>
     </children>
     <element xmi:type="repository:OperationInterface" href="default2.repository#_ag81ALiJEeWIy4OLLbb3og"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ag9cEbiJEeWIy4OLLbb3og" x="372" y="120"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ag9cEbiJEeWIy4OLLbb3og" x="372" y="60"/>
   </children>
   <children xmi:type="notation:Shape" xmi:id="_c81ooLiJEeWIy4OLLbb3og" type="2107" fontName="Sans Serif">
     <children xmi:type="notation:DecorationNode" xmi:id="_c82PsLiJEeWIy4OLLbb3og" type="5108"/>
@@ -118,28 +118,28 @@
       <styles xmi:type="notation:FilteringStyle" xmi:id="_c82Ps7iJEeWIy4OLLbb3og"/>
     </children>
     <element xmi:type="repository:OperationInterface" href="default2.repository#_c81BkLiJEeWIy4OLLbb3og"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_c81oobiJEeWIy4OLLbb3og" x="408" y="300"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_c81oobiJEeWIy4OLLbb3og" x="408" y="240"/>
   </children>
   <styles xmi:type="notation:DiagramStyle" xmi:id="_GZ8DcriJEeWIy4OLLbb3og"/>
   <element xmi:type="repository:Repository" href="default2.repository#_GZ8DcLiJEeWIy4OLLbb3og"/>
   <edges xmi:type="notation:Connector" xmi:id="_pwEqkLiJEeWIy4OLLbb3og" type="4105" source="_HgwhkLiJEeWIy4OLLbb3og" target="_WsiIMLiJEeWIy4OLLbb3og">
     <children xmi:type="notation:DecorationNode" xmi:id="_pwFRoLiJEeWIy4OLLbb3og" type="6105">
       <styles xmi:type="notation:DescriptionStyle" xmi:id="_pwFRobiJEeWIy4OLLbb3og"/>
-      <layoutConstraint xmi:type="notation:Location" xmi:id="_pwFRoriJEeWIy4OLLbb3og" x="44" y="-34"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_pwFRoriJEeWIy4OLLbb3og" x="-8" y="-4"/>
     </children>
     <styles xmi:type="notation:FontStyle" xmi:id="_pwEqkbiJEeWIy4OLLbb3og" fontName="Sans Serif"/>
     <element xmi:type="repository:OperationProvidedRole" href="default2.repository#_pwAZILiJEeWIy4OLLbb3og"/>
-    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_pwEqkriJEeWIy4OLLbb3og" points="[0, 0, -101, -73]$[30, 53, -71, -20]"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_pwEqkriJEeWIy4OLLbb3og" points="[86, 0, -27, -56]$[86, 0, -27, -56]$[103, 36, -10, -20]"/>
     <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_pwHt4LiJEeWIy4OLLbb3og" id="(0.4039408866995074,1.0)"/>
   </edges>
   <edges xmi:type="notation:Connector" xmi:id="_qjgSoLiJEeWIy4OLLbb3og" type="4105" source="_HgwhkLiJEeWIy4OLLbb3og" target="_V6F-oLiJEeWIy4OLLbb3og">
     <children xmi:type="notation:DecorationNode" xmi:id="_qjgSo7iJEeWIy4OLLbb3og" type="6105">
       <styles xmi:type="notation:DescriptionStyle" xmi:id="_qjgSpLiJEeWIy4OLLbb3og"/>
-      <layoutConstraint xmi:type="notation:Location" xmi:id="_qjgSpbiJEeWIy4OLLbb3og" x="37" y="-57"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_qjgSpbiJEeWIy4OLLbb3og" x="-1" y="-5"/>
     </children>
     <styles xmi:type="notation:FontStyle" xmi:id="_qjgSobiJEeWIy4OLLbb3og" fontName="Sans Serif"/>
     <element xmi:type="repository:OperationProvidedRole" href="default2.repository#_qjcBMLiJEeWIy4OLLbb3og"/>
-    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_qjgSoriJEeWIy4OLLbb3og" points="[0, 0, -69, -148]$[0, 109, -69, -39]$[21, 121, -48, -27]"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_qjgSoriJEeWIy4OLLbb3og" points="[-25, 0, 26, -64]$[-25, 0, 26, -64]$[-40, 37, 11, -27]"/>
     <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_qjhgwLiJEeWIy4OLLbb3og" id="(0.47783251231527096,1.0)"/>
   </edges>
   <edges xmi:type="notation:Connector" xmi:id="_sJbuoLiJEeWIy4OLLbb3og" type="4105" source="_HgwhkLiJEeWIy4OLLbb3og" target="_ag9cELiJEeWIy4OLLbb3og">
@@ -182,5 +182,15 @@
     <element xmi:type="repository:OperationRequiredRole" href="default2.repository#_I2kogLiKEeWIy4OLLbb3og"/>
     <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_I2lPkriKEeWIy4OLLbb3og" points="[0, 0, -106, 18]$[166, -13, 60, 5]"/>
     <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_I2nr0LiKEeWIy4OLLbb3og" id="(1.0,0.7252747252747253)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_SM_5cLiXEeWIy4OLLbb3og" type="4105" source="_NpxHMLiJEeWIy4OLLbb3og" target="_c81ooLiJEeWIy4OLLbb3og">
+    <children xmi:type="notation:DecorationNode" xmi:id="_SM_5c7iXEeWIy4OLLbb3og" type="6105">
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_SM_5dLiXEeWIy4OLLbb3og"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_SM_5dbiXEeWIy4OLLbb3og" x="9" y="27"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_SM_5cbiXEeWIy4OLLbb3og" fontName="Sans Serif"/>
+    <element xmi:type="repository:OperationProvidedRole" href="default2.repository#_SM82ILiXEeWIy4OLLbb3og"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_SM_5criXEeWIy4OLLbb3og" points="[0, 0, -140, 29]$[143, -9, 3, 20]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_SNAggLiXEeWIy4OLLbb3og" id="(1.0,0.5833333333333334)"/>
   </edges>
 </notation:Diagram>
