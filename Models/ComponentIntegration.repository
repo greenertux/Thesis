@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository:Repository xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:repository="http://palladiosimulator.org/PalladioComponentModel/Repository/5.1" xmlns:seff="http://palladiosimulator.org/PalladioComponentModel/SEFF/5.1" id="_d6Em0LfiEeWIy4OLLbb3og" entityName="defaultRepository">
+  <components__Repository xsi:type="repository:BasicComponent" id="_2EOoQLfjEeWIy4OLLbb3og" entityName="Watson Explorer Engine">
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_AJpjoLflEeWIy4OLLbb3og" entityName="Provided_WEX API_Watson Explorer Engine" providedInterface__OperationProvidedRole="_8CmrMLfjEeWIy4OLLbb3og"/>
+    <requiredRoles_InterfaceRequiringEntity xsi:type="repository:OperationRequiredRole" id="_9rxL8LfkEeWIy4OLLbb3og" entityName="Required_Export Plugin_Watson Explorer Engine" requiredInterface__OperationRequiredRole="_Np55ELfkEeWIy4OLLbb3og"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_AJqKsLflEeWIy4OLLbb3og" describedService__SEFF="_-L89ULfjEeWIy4OLLbb3og">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_AJqKsbflEeWIy4OLLbb3og" entityName="start" successor_AbstractAction="_AJqKsrflEeWIy4OLLbb3og"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_AJqKsrflEeWIy4OLLbb3og" entityName="stop" predecessor_AbstractAction="_AJqKsbflEeWIy4OLLbb3og"/>
+    </serviceEffectSpecifications__BasicComponent>
+  </components__Repository>
+  <components__Repository xsi:type="repository:BasicComponent" id="_3Sa5sLfjEeWIy4OLLbb3og" entityName="Watson Content Analytics">
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_tQxZILfkEeWIy4OLLbb3og" entityName="Provided_HTTP API (8393)_Watson Content Analytics" providedInterface__OperationProvidedRole="_RI69oLfkEeWIy4OLLbb3og"/>
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_t4-ooLfkEeWIy4OLLbb3og" entityName="Provided_Export Plugin_Watson Content Analytics" providedInterface__OperationProvidedRole="_Np55ELfkEeWIy4OLLbb3og"/>
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_04yrcLiJEeWIy4OLLbb3og" entityName="Provided_Analytics User Interface_Watson Content Analytics" providedInterface__OperationProvidedRole="_SioikLfkEeWIy4OLLbb3og"/>
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_1UtycLiJEeWIy4OLLbb3og" entityName="Provided_Admin Interface_Watson Content Analytics" providedInterface__OperationProvidedRole="_e8UcELfkEeWIy4OLLbb3og"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_tQyAMLfkEeWIy4OLLbb3og" describedService__SEFF="_j1RIALfkEeWIy4OLLbb3og">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_tQz1YLfkEeWIy4OLLbb3og" entityName="start" successor_AbstractAction="_tQ0ccLfkEeWIy4OLLbb3og"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_tQ0ccLfkEeWIy4OLLbb3og" entityName="stop" predecessor_AbstractAction="_tQz1YLfkEeWIy4OLLbb3og"/>
+    </serviceEffectSpecifications__BasicComponent>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_t4_PsLfkEeWIy4OLLbb3og" describedService__SEFF="_Ou-DsLfkEeWIy4OLLbb3og">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_t4_PsbfkEeWIy4OLLbb3og" entityName="start" successor_AbstractAction="_t4_2wLfkEeWIy4OLLbb3og"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_t4_2wLfkEeWIy4OLLbb3og" entityName="stop" predecessor_AbstractAction="_t4_PsbfkEeWIy4OLLbb3og"/>
+    </serviceEffectSpecifications__BasicComponent>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_04yrcbiJEeWIy4OLLbb3og" describedService__SEFF="_gf9ZELfkEeWIy4OLLbb3og">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_04zSgLiJEeWIy4OLLbb3og" entityName="start" successor_AbstractAction="_04zSgbiJEeWIy4OLLbb3og"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_04zSgbiJEeWIy4OLLbb3og" entityName="stop" predecessor_AbstractAction="_04zSgLiJEeWIy4OLLbb3og"/>
+    </serviceEffectSpecifications__BasicComponent>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_1UtycbiJEeWIy4OLLbb3og" describedService__SEFF="_iWgrALfkEeWIy4OLLbb3og">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_1UuZgLiJEeWIy4OLLbb3og" entityName="start" successor_AbstractAction="_1UuZgbiJEeWIy4OLLbb3og"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_1UuZgbiJEeWIy4OLLbb3og" entityName="stop" predecessor_AbstractAction="_1UuZgLiJEeWIy4OLLbb3og"/>
+    </serviceEffectSpecifications__BasicComponent>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_1UuZgriJEeWIy4OLLbb3og" describedService__SEFF="_jBs9ELfkEeWIy4OLLbb3og">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_1UuZg7iJEeWIy4OLLbb3og" entityName="start" successor_AbstractAction="_1UuZhLiJEeWIy4OLLbb3og"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_1UuZhLiJEeWIy4OLLbb3og" entityName="stop" predecessor_AbstractAction="_1UuZg7iJEeWIy4OLLbb3og"/>
+    </serviceEffectSpecifications__BasicComponent>
+  </components__Repository>
+  <components__Repository xsi:type="repository:BasicComponent" id="_BbSnILfkEeWIy4OLLbb3og" entityName="Watson Explorer AppBuilder">
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_G3n3gLflEeWIy4OLLbb3og" entityName="Provided_HTTP Interface_Watson Explorer AppBuilder" providedInterface__OperationProvidedRole="_EL3b4LflEeWIy4OLLbb3og"/>
+    <requiredRoles_InterfaceRequiringEntity xsi:type="repository:OperationRequiredRole" id="_BD_sALflEeWIy4OLLbb3og" entityName="Required_WEX API_Watson Explorer AppBuilder" requiredInterface__OperationRequiredRole="_8CmrMLfjEeWIy4OLLbb3og"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_G3oekLflEeWIy4OLLbb3og" describedService__SEFF="_Fk-j4LflEeWIy4OLLbb3og">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_G3oekbflEeWIy4OLLbb3og" entityName="start" successor_AbstractAction="_G3oekrflEeWIy4OLLbb3og"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_G3oekrflEeWIy4OLLbb3og" entityName="stop" predecessor_AbstractAction="_G3oekbflEeWIy4OLLbb3og"/>
+    </serviceEffectSpecifications__BasicComponent>
+  </components__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_8CmrMLfjEeWIy4OLLbb3og" entityName="WEX API">
+    <signatures__OperationInterface id="_-L89ULfjEeWIy4OLLbb3og" entityName="search">
+      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="pathmap://PCM_MODELS/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+    </signatures__OperationInterface>
+  </interfaces__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_Np55ELfkEeWIy4OLLbb3og" entityName="Export Plugin">
+    <signatures__OperationInterface id="_Ou-DsLfkEeWIy4OLLbb3og" entityName="export"/>
+  </interfaces__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_RI69oLfkEeWIy4OLLbb3og" entityName="HTTP API (8393)">
+    <signatures__OperationInterface id="_j1RIALfkEeWIy4OLLbb3og" entityName="facet"/>
+  </interfaces__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_SioikLfkEeWIy4OLLbb3og" entityName="Analytics User Interface">
+    <signatures__OperationInterface id="_gf9ZELfkEeWIy4OLLbb3og" entityName="render"/>
+  </interfaces__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_e8UcELfkEeWIy4OLLbb3og" entityName="Admin Interface">
+    <signatures__OperationInterface id="_iWgrALfkEeWIy4OLLbb3og" entityName="render"/>
+    <signatures__OperationInterface id="_jBs9ELfkEeWIy4OLLbb3og" entityName="login">
+      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="pathmap://PCM_MODELS/PrimitiveTypes.repository#//@dataTypes__Repository.2"/>
+    </signatures__OperationInterface>
+  </interfaces__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_EL3b4LflEeWIy4OLLbb3og" entityName="HTTP Interface">
+    <signatures__OperationInterface id="_Fk-j4LflEeWIy4OLLbb3og" entityName="render"/>
+  </interfaces__Repository>
+</repository:Repository>
